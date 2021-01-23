@@ -21,4 +21,4 @@ So lets try some weak passwords.
 
 ## Approach 2
 
-Another method to do this in a real-life scenario is to use ```Burpsuit```  to bruteforce to password for the user using a wordlist.
+Another method to do this in a real-life scenario is to use ```Burpsuit```  to bruteforce the password for the user using a wordlist.
