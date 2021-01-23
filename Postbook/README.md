@@ -2,7 +2,7 @@
 
 ### Name : [Postbook](https://ctf.hacker101.com/ctf/launch/7)
   - Rhymes vey much with [facebook](https://www.facebook.com) if you notice
-### Difficulty : Easy (4/Flag)
+### Difficulty(Points) : Easy (4/Flag)
 ### Skills : Web 
 
 <p>&nbsp;</p>
