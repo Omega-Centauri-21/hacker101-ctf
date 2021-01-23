@@ -4,10 +4,13 @@
   - Rhymes vey much with [facebook](https://www.facebook.com) if you have noticed
 ### Difficulty(Points) : Easy (4/Flag)
 ### Skills : Web 
+
+<p>&nbsp;</p>
+
 >
 >[@Omega-Centauri-21](https://github.com/Omega-Centauri-21) :
 >
->> Try going through the challenge yourself first. 
+> Try going through the challenge yourself first. 
 >
 <p>&nbsp;</p>
 <p>&nbsp;</p>
