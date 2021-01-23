@@ -1,5 +1,8 @@
 # Postbook
 
+## Difficulty : Easy (4/Flag)
+
+
 ## [Flag0](./flag0) -- Found
 
 - The person with username "user" has a very easy password...
