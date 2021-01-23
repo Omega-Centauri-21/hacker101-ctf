@@ -1,7 +1,7 @@
 # Postbook
 
-### Name : (Postbook)[https://ctf.hacker101.com/ctf/launch/7]
-  - Rhymes vey much with ('facebook')[https://www.facebook.com/facebook?_rdc=1&_rdr]
+### Name : [Postbook](https://ctf.hacker101.com/ctf/launch/7)
+  - Rhymes vey much with [facebook](https://www.facebook.com) if you notice
 ### Difficulty : Easy (4/Flag)
 ### Skills : Web 
 
